@@ -1,0 +1,12 @@
+This study has presented a detailed examination of the deepfake detection capabilities of 
+EfficientNet-B4 and XceptionNet models. Using two well-established datasets, Celeb-DF and 
+FaceForensics++, both models demonstrated significant efficacy in distinguishing between 
+real and fake videos, with EfficientNet-B4 generally outperforming XceptionNet. The use of
+ AUC and log loss metrics provided a comprehensive evaluation of the models' performance, 
+ highlighting the strengths and areas for improvement.
+Our findings underscore the importance of continual advancements in deepfake detection 
+algorithms to keep pace with the rapidly evolving deepfake generation techniques. Future 
+research should focus on integrating additional datasets, exploring other state-of-the-art 
+CNN architectures, and refining preprocessing techniques to further enhance detection accuracy.
+Keywords—Deepfake Detection, Extracting Frames, Cropping Faces, Accuracy, XceptionNet, 
+EfficientNet.
